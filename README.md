@@ -1,6 +1,6 @@
 # Arrow Function Shorthand
 
-## Introduction
+## Introduction 
 
 The original style for declaring functions in JavaScript is the _function
 declaration_.
